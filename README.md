@@ -36,7 +36,7 @@ Aspiring to leverage my skills in AI, Cloud Computing, and App Development to cr
 ---
 
 ### 🎓 Education
-- **B.Tech in ** (2023 - 2027)  
+- **B.Tech ** (2023 - 2027)  
   *Delhi Technological University (DTU), formerly Delhi College of Engineering*
 
 ---
